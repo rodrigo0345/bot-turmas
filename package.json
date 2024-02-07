@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "puppeteer": "^22.0.0",
+    "webdriverio": "^8.30.0"
+  }
+}
